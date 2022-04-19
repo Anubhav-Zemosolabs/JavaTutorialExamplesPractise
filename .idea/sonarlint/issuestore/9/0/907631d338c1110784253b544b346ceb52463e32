@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+=
+java:S1659""Declare "city" on a separate line.(öÍÃ®üÿÿÿÿ
+<
+java:S1659"&Declare "brothers" on a separate line.(Ï‡ï
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(œîÔÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–şë»ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È˜õüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âÚç“ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êñ÷Ğüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÔÕŠ—ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(é‡¯Íùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı°óĞ

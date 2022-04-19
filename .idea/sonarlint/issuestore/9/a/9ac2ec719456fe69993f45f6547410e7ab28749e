@@ -1,0 +1,67 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÉÇ¾ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÉÇ¾ÿÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÉÇ¾ÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›‡ËÌ
+0
+java:S1220""Move this file to a named package.
+X
+java:S1854("=Remove this useless assignment to local variable "mans_name".(ñ©´–úÿÿÿÿ
+S
+java:S1854%"=Remove this useless assignment to local variable "boys_name".(› şÙ
+U
+java:S1854""?Remove this useless assignment to local variable "occupation2".(ëÃÚ¾
+S
+java:S1854">Remove this useless assignment to local variable "adjective3".(øÚ¢N
+T
+java:S1854"9Remove this useless assignment to local variable "hobby".(ºÆçøÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "clothing".(•œÒ¦
+O
+java:S1854"9Remove this useless assignment to local variable "place".(’€œË
+Y
+java:S1854">Remove this useless assignment to local variable "occupation".(äëòÇûÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "adjective2".(ûŠ½Ûşÿÿÿÿ
+S
+java:S1854"=Remove this useless assignment to local variable "girl_name".(üÍ¾ƒ
+Y
+java:S1854
+">Remove this useless assignment to local variable "adjective1".(ƒ‘¹Çûÿÿÿÿ
+a
+java:S1659"FDeclare "girl_name" and all following declarations on a separate line.(ÌÉÇ¾ÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "adjective1" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+I
+java:S1481".Remove this unused "girl_name" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "adjective2" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "occupation" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "place" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+H
+java:S1481"-Remove this unused "clothing" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "hobby" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "adjective3" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+K
+java:S1481"0Remove this unused "occupation2" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+I
+java:S1481".Remove this unused "boys_name" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+I
+java:S1481".Remove this unused "mans_name" local variable.(ÌÉÇ¾ÿÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(›Ç‘ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øîıèÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í‚»®ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïµ½Ãüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¯üäE
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†áÍÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ¦×üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÜˆ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ğÿ‹şÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‡ÀÔì
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Èïçùÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š

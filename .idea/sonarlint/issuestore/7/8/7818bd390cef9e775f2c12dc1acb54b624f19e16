@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+W
+java:S2184"ACast one of the operands of this division operation to a "float".(—âû§
+^
+java:S1659"CDeclare "second" and all following declarations on a separate line.(â¾‡¯ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É…êÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖòÀùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(À çøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É¬ÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¹íĞûÿÿÿÿ

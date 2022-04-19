@@ -1,0 +1,13 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡­Ü¾
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î›ëå
+0
+java:S1220""Move this file to a named package.
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(òŠÇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æ‹å¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ºù‰úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æƒ­ıÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Æƒ­ıÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'javax.swing.plaf.synth.SynthTextAreaUI'.(üë®Ïüÿÿÿÿ
